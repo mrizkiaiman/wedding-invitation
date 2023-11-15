@@ -15,9 +15,7 @@ export const Landing = () => {
           priority
         />
       </div>
-      <p className={cn('w-full text-center text-md font-bold text-gray-700 tracking-tighter absolute-center-text', cardo.className)}>
-        You're invited to witness our love story unfold!
-      </p>
+      <p className={cn('w-full text-center text-md font-bold text-gray-700 tracking-tighter absolute-center-text', cardo.className)}></p>
     </main>
   )
 }
